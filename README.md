@@ -113,10 +113,7 @@
 - � Reach **1900+** Contest Rating
 - ✅ Solve **200+** Hard Problems
 - 📅 Maintain **200+ Day Streak**
-<!-- Optional Spotify Widget -->
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
--->
 
 
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
