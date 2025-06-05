@@ -1,6 +1,3 @@
-
-
-
 <!-- Intro Typing Animation -->
 <h2 align="center">
 
@@ -95,3 +92,72 @@
 
 
 <!-- 
+
+
+<!-- Typing Intro -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=900&lines=Hi+👋%2C+I'm+Alok+Kumar" alt="Typing 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0AAD3D&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer" alt="Typing 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=CSE+Student+%7C+GenAI+%7C+LLM+Fine-Tuning" alt="Typing 3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9900CC&center=true&vCenter=true&width=900&lines=AI+Solutions+for+Farmers+%F0%9F%8C%B1+%7C+Fintech+Innovator" alt="Typing 4" />
+</h2>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 2nd Year CSE Student @ **Acropolis Institute of Technology & Research**, Indore  
+🧠 Passionate about **AI, Deep Learning, NLP, LLMs & GenAI**  
+🌾 Working on **Farmer-focused AI: Crop Disease Detection, Dosage, and Treatment**  
+💸 Exploring **Fintech ML Use Cases** like **Fraud Detection**  
+☁️ Learning and building using **AWS, FastAPI, Streamlit**
+
+---
+
+## 🎮 My JavaScript Game Project
+
+🚀 **Play Now**: [Mini Game Live Demo](https://alokkumar0987.github.io/mini-javascript-game/)  
+📦 **Source Code**: [GitHub Repo](https://github.com/alokkumar0987/mini-javascript-game)
+
+> Fun, interactive game to showcase my JavaScript + HTML/CSS skills. Contributes to my GitHub graph!
+
+---
+
+## 💡 Technologies & Tools
+
+### Programming & Libraries
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+
+### Dev & Cloud Tools
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FCC63F?logo=huggingface&logoColor=black&style=for-the-badge)
+
+---
+
+## 📈 GitHub Stats
+
+![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokkumar0987&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:alok33778@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alok-kumar-784025309"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/alokkumar0987"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+> ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
+> 👨‍🌾 *— Alok Kumar*
+
