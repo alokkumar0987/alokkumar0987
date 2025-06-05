@@ -109,8 +109,8 @@
 
 **Current Goals**:
 - � Reach **1900+** Contest Rating
-- ✅ Solve **50+** Hard Problems
-- 📅 Maintain **90+ Day Streak**
+- ✅ Solve **200+** Hard Problems
+- 📅 Maintain **200+ Day Streak**
 <!-- Optional Spotify Widget -->
 <!--
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
