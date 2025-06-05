@@ -96,6 +96,12 @@
 
 ---
 
+
+<p align="center">
+  <a href="https://github.com/alokkumar0987?tab=repositories">
+    <img src="https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg" alt="3D Coding Activity Snake" />
+  </a>
+</p>
 ![Profile Views](https://komarev.com/ghpvc/?username=alokkumar0987&color=blueviolet&style=flat-square)
 ## 🧠 LeetCode Problem Solving
 
