@@ -86,6 +86,14 @@
 
 ---
 
+---
+
+## 📈 GitHub Stats
+
+![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokkumar0987&show_icons=true&theme=radical)
+
+---
+
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
 
