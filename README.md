@@ -94,6 +94,22 @@
 
 ---
 
+
+-
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alokkumar0987&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alokkumar0987&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=alokkumar0987&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
+</p>
+
+---
+
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
 
