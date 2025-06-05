@@ -1,9 +1,7 @@
 <!-- Intro Typing Animation -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+__I'm+Alok+Kumar;2nd+Year+CSE+Student+%7C+AI+Explorer;Building+AI+to+Help+Farmers+%F0%9F%8C%B1+%7C+Fintech+Enthusiast;+Machine Learning+Engineer+in+the+Making+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Hii+%F0%9F%91%8B%2C+I'm+Alok+Kumar;Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer;MLOps+Engineer+%7C+LLM+%7C+GenAI+Enthusiast;Building+AI+Solutions+for+Farmers+%F0%9F%8C%B1+%7C+Fintech+Innovator" alt="Typing SVG" />
 </h2>
-
----
 
 ## 👨‍💻 About Me
 
