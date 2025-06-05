@@ -104,8 +104,8 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/alok33778/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/alok33778?theme=dark&font=JetBrains+Mono&ext=activity" width="45%"/>
-    <img src="https://leetcard.jacoblin.cool/alok33778?theme=dark&ext=heatmap" width="45%"/>
+    <img src="https://leetcard.jacoblin.cool/alok33778?theme=dark&font=JetBrains+Mono&ext=activity" width="90%"/>
+    
   </a>
 </p>
 
