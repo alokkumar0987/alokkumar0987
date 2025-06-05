@@ -96,6 +96,15 @@
 
 ---
 
+## 🧠 LeetCode Problem Solving
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/alokkumar0987?theme=dark&font=Roboto&border=0&width=800)](https://leetcode.com/alokkumar0987/)
+
+**Current Focus**: 
+- 🔥 Daily Streak Maintenance 
+- 🧩 Dynamic Programming Patterns
+- 🏆 Contest Participation
+
 <!-- Optional Spotify Widget -->
 <!--
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
