@@ -1,4 +1,19 @@
+<!-- Sequential Typing Animation -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=900&lines=Hii+%F0%9F%91%8B%2C+I'm+Alok+Kumar" alt="Greeting" />
+</h2>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0AAD3D&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer" alt="Roles" />
+</h2>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer+%7C+LLM+%7C+GenAI+Enthusiast" alt="Expertise" />
+</h2>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9900CC&center=true&vCenter=true&width=900&lines=Building+AI+Solutions+for+Farmers+%F0%9F%8C%B1+%7C+Fintech+Innovator" alt="Specializations" />
+</h2>
 <!-- Intro Typing Animation -->
 <h2 align="center">
 
