@@ -96,7 +96,6 @@
 
 ---
 
-![Contribution Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=alokkumar0987&theme=github-compact&hide_border=true&area=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alokkumar0987&color=blueviolet&style=flat-square)
 ## 🧠 LeetCode Problem Solving
