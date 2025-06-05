@@ -98,13 +98,19 @@
 
 ## 🧠 LeetCode Problem Solving
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/alokkumar0987?theme=dark&font=Roboto&border=0&width=800)](https://leetcode.com/alokkumar0987/)
+## 🏆 Competitive Programming
 
-**Current Focus**: 
-- 🔥 Daily Streak Maintenance 
-- 🧩 Dynamic Programming Patterns
-- 🏆 Contest Participation
+<p align="center">
+  <a href="https://leetcode.com/u/alok33778/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/alok33778?theme=dark&font=JetBrains+Mono&ext=activity" width="45%"/>
+    <img src="https://leetcard.jacoblin.cool/alok33778?theme=dark&ext=heatmap" width="45%"/>
+  </a>
+</p>
 
+**Current Goals**:
+- � Reach **1900+** Contest Rating
+- ✅ Solve **50+** Hard Problems
+- 📅 Maintain **90+ Day Streak**
 <!-- Optional Spotify Widget -->
 <!--
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
