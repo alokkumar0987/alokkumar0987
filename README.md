@@ -96,8 +96,7 @@
 
 ---
 
-![3D Contribution](https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg)
-
+![Profile Views](https://komarev.com/ghpvc/?username=alokkumar0987&color=blueviolet&style=flat-square)
 ## 🧠 LeetCode Problem Solving
 
 ## 🏆 Competitive Programming
