@@ -83,15 +83,8 @@
 
 ---
 
-
-## 🌐 Professional Network
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alok-kumar-784025309" target="_blank">
-    <img src="https://linkedin-card.vercel.app/api?title=AI%20Engineer&name=Alok%20Kumar&bg=0D1117&text=FFFFFF&accent=0A66C2&image=https://media.licdn.com/dms/image/D5603AQE5hJ4JmJm9HQ/profile-displayphoto-shrink_400_400/0/1707129163832?e=1721260800&v=beta&t=XYZ123" width="60%"/>
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alok_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/alok-kumar-784025309)
+![Profile Views](https://komarev.com/ghpvc/?username=alokkumar0987&label=LinkedIn+Views&color=0A66C2&style=flat)
 ## 📈 GitHub Analytics
 
 <p align="center">
