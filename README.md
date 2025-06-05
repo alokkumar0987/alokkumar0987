@@ -1,39 +1,27 @@
 <!-- Intro Typing Animation -->
 <h2 align="center">
-
   <!-- Line 1 (Orange) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=F77F00&center=true&vCenter=true&width=900&lines=Hii+%F0%9F%91%8B%2C+I'm+Alok+Kumar" alt="Typing 1" />
-
+  
   <!-- Line 2 (Green) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0AAD3D&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer" alt="Typing 2" />
-
+  
   <!-- Line 3 (Blue) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0078D4&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer+%7C+LLM+%7C+GenAI+Enthusiast" alt="Typing 3" />
-
-  <!-- Line 4 (Purple) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=9900CC&center=true&vCenter=true&width=900&lines=Building+AI+Solutions+for+Farmers+%F0%9F%8C%B1+%7C+Fintech+Innovator" alt="Typing 4" /><!-- Intro Typing Animation -->
-<h2 align="center">
-
-  <!-- Line 1 (Orange) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=F77F00&center=true&vCenter=true&width=900&lines=Hii+%F0%9F%91%8B%2C+I'm+Alok+Kumar" alt="Typing 1" />
-
-  <!-- Line 2 (Green) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0AAD3D&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer" alt="Typing 2" />
-
-  <!-- Line 3 (Blue) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0078D4&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer+%7C+LLM+%7C+GenAI+Enthusiast" alt="Typing 3" />
-
+  
   <!-- Line 4 (Purple) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=9900CC&center=true&vCenter=true&width=900&lines=Building+AI+Solutions+for+Farmers+%F0%9F%8C%B1+%7C+Fintech+Innovator" alt="Typing 4" />
-
 </h2>
+
+---
+
 ## 👨‍💻 About Me
 
 🎓 2nd Year CSE Student at **Acropolis Institute of Technology & Research**, Indore  
 🧠 Passionate about **AI, Deep Learning, NLP, LLM Fine-Tuning & Generative AI**  
 🌾 Working on AI projects for **Farmers, Crop Disease Detection & Treatment**  
 💸 Interested in **Fintech Solutions** like **Fraud Detection using ML**  
-🚀 Exploring **AWS Cloud**, **FastAPI**, and full-stack ML system design  
+🚀 Exploring **AWS Cloud**, **FastAPI**, and Full-Stack ML System Design  
 
 ---
 
@@ -55,14 +43,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/5022189?s=200&v=4" alt="FastAPI" width="40" height="40"/>
-
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="HuggingFace" width="40" height="40"/>
+  
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Android_Studio_icon.svg" alt="Android Studio" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/8619/8619208.png" alt="GenAI" width="40" height="40"/>
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="HuggingFace" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="AWS Cloud" width="40" height="40"/>
 
 </p>
@@ -71,11 +59,17 @@
 
 ## 📈 Skills
 
-- 📊 Python, Pandas, NumPy, Seaborn, Matplotlib  
-- 📐 Statis<!-- Intro Typing Animation -->
-<h2 align="center">
-
-  <!-- Line 1 (Orange) -->
+- 📊 **Languages**: Python, C++, MySQL, Bash  
+- 🧠 **Core AI/ML**: Scikit-Learn, TensorFlow, PyTorch, Deep Learning  
+- 📈 **Data Science**: Pandas, NumPy, Seaborn, Matplotlib, Data Cleaning & Visualization  
+- 🧪 **NLP & GenAI**: Transformers, LLM Fine-Tuning, HuggingFace, Chatbot Creation  
+- 🌐 **Web & APIs**: FastAPI, Streamlit, REST APIs, CRUD Operations  
+- ☁️ **Cloud & DevOps**: AWS EC2, S3, Git, GitHub Actions (basic), Jupyter  
+- 💡 **Projects**:  
+  - Crop Leaf Disease Detection (EfficientNet)  
+  - GenAI Chatbot for Farmers (Mistral-7B fine-tuned)  
+  - Fraud Detection in Fintech  
+  - Personal Learning AI App (Coming soon)
 
 ---
 
@@ -102,8 +96,10 @@
 
 ---
 
+<!-- Optional Spotify Widget -->
+<!--
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+-->
 
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
-
