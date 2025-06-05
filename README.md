@@ -128,10 +128,8 @@
 > 👨‍🌾 *— Alok Kumar*
 
 
-## 🐍 GitHub Contribution Snake
-
 <p align="center">
-  <a href="https://github.com/alokkumar0987?tab=repositories">
-    <img src="https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg" alt="3D Coding Activity Snake" />
+  <a href="https://open.spotify.com/user/31w6j7q5zqcznqjq3m7f2meyxv4i">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w6j7q5zqcznqjq3m7f2meyxv4i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="500"/>
   </a>
 </p>
