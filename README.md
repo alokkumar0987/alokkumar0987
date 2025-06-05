@@ -86,17 +86,6 @@
 
 ---
 
----
-
-## 📈 GitHub Stats
-
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokkumar0987&show_icons=true&theme=radical)
-
----
-
-
--
-
 ## 📈 GitHub Analytics
 
 <p align="center">
