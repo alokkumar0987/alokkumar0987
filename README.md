@@ -1,10 +1,6 @@
 
 
-<!-- Intro Typing Animation -->
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=1200&lines=👋+Hi%2C+I'm+Alok+Kumar+-+Data+Scientist+%7C+AI+%26+ML+Engineer+%7C+GenAI+Enthusiast+%7C+Building+AI+for+Farmers+%F0%9F%8C%B1+%7C+Fintech+Innovator" alt="Typing SVG" />
-</h2>
 <!-- Intro Typing Animation -->
 <h2 align="center">
 
