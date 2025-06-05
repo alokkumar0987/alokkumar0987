@@ -96,7 +96,7 @@
 
 ---
 
-
+![Contribution Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=alokkumar0987&theme=github-compact&hide_border=true&area=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alokkumar0987&color=blueviolet&style=flat-square)
 ## 🧠 LeetCode Problem Solving
@@ -127,9 +127,3 @@
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
 
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31w6j7q5zqcznqjq3m7f2meyxv4i">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w6j7q5zqcznqjq3m7f2meyxv4i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="500"/>
-  </a>
-</p>
