@@ -83,6 +83,15 @@
 
 ---
 
+
+## 🌐 Professional Network
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alok-kumar-784025309" target="_blank">
+    <img src="https://linkedin-card.vercel.app/api?title=AI%20Engineer&name=Alok%20Kumar&bg=0D1117&text=FFFFFF&accent=0A66C2&image=https://media.licdn.com/dms/image/D5603AQE5hJ4JmJm9HQ/profile-displayphoto-shrink_400_400/0/1707129163832?e=1721260800&v=beta&t=XYZ123" width="60%"/>
+  </a>
+</p>
+
 ## 📈 GitHub Analytics
 
 <p align="center">
