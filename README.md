@@ -114,15 +114,11 @@
 - ✅ Solve **200+** Hard Problems
 - 📅 Maintain **200+ Day Streak**
 <!-- Optional Spotify Widget -->
-<!--
+
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 -->
 
 
-<!-- Add this JavaScript snippet -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Dynamic%20Time%20Zone-IST_UTC%2B5:30-blue?style=for-the-badge&logo=world&logoColor=white">
-</p>
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
 
