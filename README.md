@@ -126,3 +126,12 @@
 </p>
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
+
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <a href="https://github.com/alokkumar0987?tab=repositories">
+    <img src="https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg" alt="3D Coding Activity Snake" />
+  </a>
+</p>
