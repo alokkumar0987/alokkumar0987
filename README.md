@@ -125,12 +125,11 @@
 - ✅ Solve **100+** Hard Problems
 - 📅 Maintain **200+ Day Streak**
 
-![Winter Snake](https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg?theme=snow&palette=ice)
 
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
 
-
+![AI Snake](https://github-contribution-snake.vercel.app/api?user=alokkumar0987&palette=ai&effect=wave&height=300)
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=alokkumar0987&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
