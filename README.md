@@ -59,17 +59,26 @@
 
 ## 📈 Skills
 
-- 📊 **Languages**: Python, C++, MySQL, Bash  
+- 📊 **Languages**: Python, C++, MySQL, kotlin 
 - 🧠 **Core AI/ML**: Scikit-Learn, TensorFlow, PyTorch, Deep Learning  
-- 📈 **Data Science**: Pandas, NumPy, Seaborn, Matplotlib, Data Cleaning & Visualization  
-- 🧪 **NLP & GenAI**: Transformers, LLM Fine-Tuning, HuggingFace, Chatbot Creation  
-- 🌐 **Web & APIs**: FastAPI, Streamlit, REST APIs, CRUD Operations  
-- ☁️ **Cloud & DevOps**: AWS EC2, S3, Git, GitHub Actions (basic), Jupyter  
+- 📈 **Data Science**: Pandas, NumPy, Seaborn, Matplotlib, Data Cleaning & Visualization , Machine learning algorithms 
+- 🧪 **NLP & GenAI**: Transformers, LLM Fine-Tuning, HuggingFace, MCP , Agentic Al 
+- 🌐 **Web & APIs**: FastAPI, Streamlit, REST APIs 
+- ☁️ **Exploring Cloud & DevOps**: AWS EC2, S3, Git, GitHub Actions (basic), Jupyter  
 - 💡 **Projects**:  
   - Crop Leaf Disease Detection (EfficientNet)  
   - GenAI Chatbot for Farmers (Mistral-7B fine-tuned)  
   - Fraud Detection in Fintech  
-  - Personal Learning AI App (Coming soon)
+  - SpaceTech weather aviation system
+  - Customer churn prediction
+  - EDA house price prediction
+  - Movie recommended system
+  - Apple, netflix stock price prediction
+  - Weather prediction model
+  - 3D model generator using 2D image and text
+  - chatbot using RAG LLM model
+    
+    
 
 ---
 
@@ -113,7 +122,7 @@
 
 **Current Goals**:
 - � Reach **1900+** Contest Rating
-- ✅ Solve **200+** Hard Problems
+- ✅ Solve **100+** Hard Problems
 - 📅 Maintain **200+ Day Streak**
 
 
@@ -121,11 +130,4 @@
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokkumar0987&show_icons=true&theme=dark&include_all_commits=true&count_private=true&range=last-year" width="45%"/>
-  <img src="https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg#year=2023" width="45%"/>
-</p>
 
-
-
-![Last Year Contributions](https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg#year)
