@@ -125,14 +125,12 @@
 - ✅ Solve **100+** Hard Problems
 - 📅 Maintain **200+ Day Streak**
 
-
+![Matrix Snake](https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg?matrix=1&color=00ff41)
 
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
 
-<a href="https://www.buymeacoffee.com/YOUR_ID" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" >
-</a>
+
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=alokkumar0987&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
