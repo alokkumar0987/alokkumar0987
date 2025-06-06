@@ -129,11 +129,9 @@
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar
 
-[![World Map](https://github-readme-earth.vercel.app/api?username=alokkumar0987&theme=dark)](https://github.com/alokkumar0987)
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=alokkumar0987&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
-
-[![Voice Assistant](https://github-readme-voice.vercel.app/api?user=alokkumar0987&theme=soft)](https://github.com/alokkumar0987)
+![Snake](https://raw.githubusercontent.com/alokkumar0987/alokkumar0987/output/github-contribution-grid-snake.svg)
