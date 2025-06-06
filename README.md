@@ -133,3 +133,6 @@
 <a href="https://www.buymeacoffee.com/YOUR_ID" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" >
 </a>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=alokkumar0987&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
