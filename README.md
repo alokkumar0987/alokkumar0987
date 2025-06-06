@@ -125,7 +125,7 @@
 - ✅ Solve **100+** Hard Problems
 - 📅 Maintain **200+ Day Streak**
 
-![Matrix Snake](https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg?matrix=1&color=00ff41)
+![Winter Snake](https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg?theme=snow&palette=ice)
 
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
