@@ -125,3 +125,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alokkumar0987&show_icons=true&theme=dark&include_all_commits=true&count_private=true&range=last-year" width="45%"/>
   <img src="https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg#year=2023" width="45%"/>
 </p>
+
+
+
+![Last Year Contributions](https://github.com/alokkumar0987/alokkumar0987/blob/output/github-contribution-grid-snake.svg#year)
