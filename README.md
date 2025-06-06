@@ -130,16 +130,6 @@
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
 
-## 👔 Professional Presence
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alok-kumar-784025309">
-    <img src="https://github-readme-linkedin-card.vercel.app/api?username=alok-kumar-784025309&theme=dark" width="45%"/>
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=YOUR_SO_ID" width="45%"/>
-  </a>
-</p>
-
-**Key Metrics**:
-- 500+ Professional Connections
-- 10+ Recommendations
-- Active in AI/ML Groups
+<a href="https://www.buymeacoffee.com/YOUR_ID" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" >
+</a>
