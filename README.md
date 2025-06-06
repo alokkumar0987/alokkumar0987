@@ -130,7 +130,10 @@
 > 👨‍🌾 *— Alok Kumar
 
 
-[![Voice Assistant](https://github-readme-voice.vercel.app/api?user=alokkumar0987&theme=soft)](https://github.com/alokkumar0987)
+
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=alokkumar0987&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
+
+
+[![Voice Assistant](https://github-readme-voice.vercel.app/api?user=alokkumar0987&theme=soft)](https://github.com/alokkumar0987)
