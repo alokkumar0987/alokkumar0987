@@ -130,4 +130,16 @@
 > ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
 > 👨‍🌾 *— Alok Kumar*
 
+## 👔 Professional Presence
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alok-kumar-784025309">
+    <img src="https://github-readme-linkedin-card.vercel.app/api?username=alok-kumar-784025309&theme=dark" width="45%"/>
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=YOUR_SO_ID" width="45%"/>
+  </a>
+</p>
+
+**Key Metrics**:
+- 500+ Professional Connections
+- 10+ Recommendations
+- Active in AI/ML Groups
