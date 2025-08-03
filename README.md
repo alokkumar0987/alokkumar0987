@@ -1,7 +1,9 @@
 <!-- Intro Typing Animation -->
 
 <p align="center">
-  <img src="https://your-host.com/multicolor_typing.gif" alt="Multicolor Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=1000&lines=Hi+👋+I%27m+Alok+Kumar+-+Data+Scientist+%7C+AI+Engineer+%7C+GenAI+Enthusiast+%7C+FarmerTech+Innovator" 
+    alt="Typing Animation" />
 </p>
 
 ## 👨‍💻 About Me
