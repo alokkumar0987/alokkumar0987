@@ -1,19 +1,8 @@
 <!-- Intro Typing Animation -->
-<h2 align="center">
-  <!-- Line 1 (Orange) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=F77F00&center=true&vCenter=true&width=900&lines=Hii+%F0%9F%91%8B%2C+I'm+Alok+Kumar" alt="Typing 1" />
-  
-  <!-- Line 2 (Green) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0AAD3D&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer" alt="Typing 2" />
-  
-  <!-- Line 3 (Blue) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=0078D4&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer+%7C+LLM+%7C+GenAI+Enthusiast" alt="Typing 3" />
-  
-  <!-- Line 4 (Purple) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=9900CC&center=true&vCenter=true&width=900&lines=Building+AI+Solutions+for+Farmers+%F0%9F%8C%B1+%7C+Fintech+Innovator" alt="Typing 4" />
-</h2>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Alok+Kumar+-+Data+Scientist+%7C+AI+Engineer+%7C+GenAI+Enthusiast+%7C+FarmerTech+Innovator" alt="Typing" />
+</p>
 
 ## 👨‍💻 About Me
 
