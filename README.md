@@ -1,22 +1,22 @@
-<!-- Intro Typing Animation -->
-
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=1000&lines=Hi+👋+I%27m+Alok+Kumar+-+Data+Scientist+%7C+AI+Engineer+%7C+GenAI+Enthusiast+%7C+FarmerTech+Innovator" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Alok+Kumar+-+Data+Scientist+%7C+AI+Engineer+%7C+GenAI+Enthusiast+%7C+FarmerTech+Innovator" 
     alt="Typing Animation" />
 </p>
 
-## 👨‍💻 About Me
+---
 
-🎓 2nd Year CSE Student at **Acropolis Institute of Technology & Research**, Indore  
+## 👨‍💻 About Me  
+
+🎓 3rd Year CSE Student at **Acropolis Institute of Technology & Research**, Indore  
 🧠 Passionate about **AI, Deep Learning, NLP, LLM Fine-Tuning & Generative AI**  
-🌾 Working on AI projects for **Farmers, Crop Disease Detection & Treatment**  
-💸 Interested in **Fintech Solutions** like **Fraud Detection using ML**  
-🚀 Exploring **AWS Cloud**, **FastAPI**, and Full-Stack ML System Design  
+🌾 Innovating AI solutions for **Farmers: Crop Disease Detection & Treatment**  
+💸 Exploring **Fintech Applications** like **Fraud Detection with ML**  
+🚀 Hands-on with **AWS Cloud**, **FastAPI**, and Full-Stack ML System Design  
 
 ---
 
-## 🚀 Languages and Tools
+## 🚀 Languages & Tools  
 
 <p align="center">
 
@@ -48,32 +48,34 @@
 
 ---
 
-## 📈 Skills
+## 📈 Skills  
 
-- 📊 **Languages**: Python, C++, MySQL, kotlin 
-- 🧠 **Core AI/ML**: Scikit-Learn, TensorFlow, PyTorch, Deep Learning  
-- 📈 **Data Science**: Pandas, NumPy, Seaborn, Matplotlib, Data Cleaning & Visualization , Machine learning algorithms 
-- 🧪 **NLP & GenAI**: Transformers, LLM Fine-Tuning, HuggingFace, MCP , Agentic Al 
-- 🌐 **Web & APIs**: FastAPI, Streamlit, REST APIs 
-- ☁️ **Exploring Cloud & DevOps**: AWS EC2, S3, Git, GitHub Actions (basic), Jupyter  
-- 💡 **Projects**:  
-  - Crop Leaf Disease Detection (EfficientNet)  
-  - GenAI Chatbot for Farmers (Mistral-7B fine-tuned)  
-  - Fraud Detection in Fintech  
-  - SpaceTech weather aviation system
-  - Customer churn prediction
-  - EDA house price prediction
-  - Movie recommended system
-  - Apple, netflix stock price prediction
-  - Weather prediction model
-  - 3D model generator using 2D image and text
-  - chatbot using RAG LLM model
-    
-    
+- 📊 **Languages**: Python, C++, MySQL, Kotlin  
+- 🧠 **AI/ML**: Scikit-Learn, TensorFlow, PyTorch, Deep Learning  
+- 📊 **Data Science**: Pandas, NumPy, Seaborn, Matplotlib, EDA, ML Algorithms  
+- 🧪 **NLP & GenAI**: Transformers, LLM Fine-Tuning, HuggingFace, MCP, Agentic AI  
+- 🌐 **Web & APIs**: FastAPI, Streamlit, REST APIs  
+- ☁️ **Cloud & DevOps**: AWS (EC2, S3), Git, GitHub Actions, Jupyter  
 
 ---
 
-## 🔗 Connect With Me
+## 💡 Projects  
+
+- 🌱 Crop Leaf Disease Detection (**EfficientNet**)  
+- 🤖 GenAI Chatbot for Farmers (**Mistral-7B Fine-Tuned**)  
+- 💳 Fraud Detection in Fintech  
+- 🌦️ SpaceTech Weather Aviation System  
+- 📉 Customer Churn Prediction  
+- 🏠 EDA on House Price Prediction  
+- 🎬 Movie Recommendation System  
+- 📈 Stock Price Prediction (Apple, Netflix)  
+- ☁️ Weather Prediction Model  
+- 🖼️ 3D Model Generator (2D Image + Text)  
+- 💬 Chatbot using RAG + LLM  
+
+---
+
+## 🔗 Connect With Me  
 
 <p align="center">
   <a href="mailto:alok33778@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -83,9 +85,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alok_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/alok-kumar-784025309)
-![Profile Views](https://komarev.com/ghpvc/?username=alokkumar0987&label=LinkedIn+Views&color=0A66C2&style=flat)
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alokkumar0987&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
@@ -98,29 +98,26 @@
 
 ---
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=alokkumar0987&color=blueviolet&style=flat-square)
-## 🧠 LeetCode Problem Solving
-
-## 🏆 Competitive Programming
+## 🧠 LeetCode & Competitive Programming  
 
 <p align="center">
   <a href="https://leetcode.com/u/alok33778/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/alok33778?theme=dark&font=JetBrains+Mono&ext=activity" width="90%"/>
-    
   </a>
 </p>
 
-**Current Goals**:
-- � Reach **1900+** Contest Rating
-- ✅ Solve **100+** Hard Problems
-- 📅 Maintain **200+ Day Streak**
+**Current Goals**  
+- 🚀 Reach **1900+ Contest Rating**  
+- ✅ Solve **100+ Hard Problems**  
+- 📅 Maintain **200+ Day Streak**  
 
-
-> ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
-> 👨‍🌾 *— Alok Kumar
-
+---
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=alokkumar0987&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
+
+---
+
+> ⭐ “**Learning daily, dreaming big, building AI with purpose.**”  
+> 👨‍🌾 *— Alok Kumar*
